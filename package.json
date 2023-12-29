@@ -1,0 +1,14 @@
+{
+  "name": "socketsnodejs",
+  "version": "1.0.0",
+  "description": "Programa de envio de mensajes a traves de sockets",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "server": "node src/server.js 8000",
+    "client": "node src/client.js 127.0.0.1 8000"
+  },
+  "keywords": [],
+  "author": "Felipe Sanchez",
+  "license": "ISC"
+}
