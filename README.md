@@ -21,7 +21,7 @@ Para poder ejecutarlos tienes que abrir una bash o shell (Si estas en linux o ma
 
 Donde se iniciara el servidor en local y en el puerto 8000, despues tienes que abrir otra bash o cmd y ejecutar el script de de client con el siguiente comando
 
-    npm run server
+    npm run client
 
 Ahora que estan corriendo los scripts en el lado del cliente te pedira ingresar un nombre de usuario, lo ingresas y te conectaras al servidor y podras mandar mensajes.
 Puedes intentar abrir más clientes, abriendo más terminales y ejecutando el comando. Para cerrar o terminar una conexión tienes que escribir END y el cliente se desconectara del servidor.
